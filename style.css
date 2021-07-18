@@ -15,7 +15,7 @@ marquee{
 .contents img{
     float: left;
     border-radius: 100px;
-    margin: 5%;
+    margin: 2%;
 }
 
 .contents h1{
@@ -39,7 +39,7 @@ marquee{
 }
 
 .contents2{
-    border-radius: 20px;
+    border-radius: 50px;
     background-color: lightgoldenrodyellow;
     
 }
@@ -80,12 +80,17 @@ marquee{
 
 }
 
+.wishes p em{
+    color: rgb(134, 130, 130);
+}
+
 #footer{
     height: 60px;
-    background-color: cadetblue;
+    background-color: rgb(9, 19, 19);
 }
 
 #footer p{
+    color: #fff;
     padding-top: 10px;
     text-align: center;
 }
