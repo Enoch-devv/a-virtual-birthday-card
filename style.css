@@ -2,6 +2,7 @@ marquee{
     background-color: lightgrey;
     display: flex;
     font-family: fantasy;
+    position: fixed;
 }
 
 #contents{
