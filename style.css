@@ -4,10 +4,6 @@ marquee{
     font-family: fantasy;
 }
 
-*{
- Margin: 0;
-}
-
 #contents{
     background-color: rgb(9, 19, 19);
     text-align: justify;
